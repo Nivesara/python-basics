@@ -1,0 +1,1 @@
+print(float(8)+100)
